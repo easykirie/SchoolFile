@@ -1,0 +1,7 @@
+D:\새 폴더\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\새 폴더\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\새 폴더\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\새 폴더\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+D:\새 폴더\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\새 폴더\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\새 폴더\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
