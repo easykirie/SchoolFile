@@ -1,0 +1,7 @@
+D:\School2-2\SnakeGame\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\School2-2\SnakeGame\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\School2-2\SnakeGame\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\School2-2\SnakeGame\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\School2-2\SnakeGame\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\School2-2\SnakeGame\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\School2-2\SnakeGame\Calculator\Calculator\obj\Debug\Calculator.pdb
