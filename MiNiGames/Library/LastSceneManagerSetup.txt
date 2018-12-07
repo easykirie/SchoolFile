@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MiNiGame/02 Scenes/01 Drag&Drop/Drag&Drop_Main.unity
+  isLoaded: 1
+  isActive: 1
