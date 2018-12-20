@@ -23,7 +23,7 @@ public class PlayerStamina : MonoBehaviour {
 		
 	}
 
-    public void Heart(float dmg)
+    public void Hit(float dmg)
     {
 
         playerstamina_current -= dmg;
